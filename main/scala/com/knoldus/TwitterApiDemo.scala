@@ -19,10 +19,10 @@ Trait for creating connection with twitter
 trait Config {
 
   def config(): Twitter = {
-    val consumerKey = "JEGl96NlNIYS6bFImftxqjVmF"
-    val consumerSecretKey = "RASu9rSwAsO62gbQ2JDRV5TaswY8POih75KtiyrcUEDDyiTX06"
-    val accessToken = "1445558712-QwrYq3H6tnAOVvURMDbqF0ZvaXSurBquujYJDfD"
-    val accessTokenSecret = "8g8063VYtnusy8XAdvgbffSzvvlqWQZrhQeMAHYNy7On4"
+    val consumerKey = "================="
+    val consumerSecretKey = "===================="
+    val accessToken = "=============================="
+    val accessTokenSecret = "=========="
 
     val configurationBuilder = new ConfigurationBuilder()
     configurationBuilder.setDebugEnabled(false)
